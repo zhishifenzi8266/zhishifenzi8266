@@ -1,8 +1,7 @@
 ## 嘿！这！看什么呢？ 我是逆蝶！ 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhishifenzi8266&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 # 编程自嘲励志诗
 
 你说你是 **高手**，但我看你是 **菜鸟**。  
