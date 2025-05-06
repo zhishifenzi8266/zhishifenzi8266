@@ -1,5 +1,6 @@
 ## 嘿！这！看什么呢？ 我是逆蝶！ 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhishifenzi8266&show_icons=true&theme=tokyonight&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhishifenzi8266&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # 编程自嘲励志诗
 
