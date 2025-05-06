@@ -1,16 +1,8 @@
 ## 嘿！这！看什么呢？ 我是逆蝶！ 👋
 
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-  <!-- 左侧统计卡，不调整尺寸 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zhishifenzi8266&show_icons=true&theme=tokyonight" 
-       alt="Anurag's GitHub stats" 
-       style="margin: 10px;" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhishifenzi8266&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhishifenzi8266&layout=compact&langs_count=8&hide_border=true&theme=transparent" /> |
+| ------------- | ------------- |
 
-  <!-- 右侧 Top Langs 卡，设置宽度较小 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhishifenzi8266&size_weight=0.5&count_weight=0.5" 
-       alt="Top Langs" 
-       style="margin: 10px; width: 300px; max-width: 300px;" />
-</div>
 
 
 # 编程自嘲励志诗
